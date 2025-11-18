@@ -1,0 +1,9 @@
+.product-order {
+  margin-bottom: 30px;
+  .orderby {
+    background: transparent;
+  }
+}
+.woocommerce .elementor-widget-woocommerce-product-price .price {
+    color: var(--e-global-color-primary) !important;
+}
