@@ -1,0 +1,11 @@
+#menu-main-menu {
+  li {
+    &.menu-item-has-children {
+      i {
+        &::before {
+            font-size: 14px;
+        }
+      }
+    }
+  }
+}

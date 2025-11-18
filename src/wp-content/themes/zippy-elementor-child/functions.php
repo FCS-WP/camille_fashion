@@ -24,3 +24,4 @@ if (!defined('THEME_URL'))
  */
 
 require_once THEME_DIR_CHILD . '/includes/autoload.php';
+require_once THEME_DIR_CHILD . '/includes/shortcode_fillter_category.php';

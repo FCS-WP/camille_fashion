@@ -1,0 +1,17 @@
+.logo-white {
+  img {
+    filter: brightness(0) invert(1) !important;
+  }
+}
+.elementor-location-footer {
+  ul.elementor-nav-menu {
+    li {
+      .elementor-item-active {
+        text-decoration: underline;
+      }
+      a{
+        padding-top: 0 !important;
+      }
+    }
+  }
+}
