@@ -1,10 +1,15 @@
+@import "./custom-woocomerce";
 @import "./footer";
 @import "./header";
+//Shortcode
 @import "./shortcode-fillter-category";
 //Page
 @import "./page/shoppage";
+@import "./page/custom-cart-page";
+@import "./page/custom-checkout-page";
 
 
+//Plugin CRM
 // Container form
 .form-wrapper {
   .form-heading-icon {
@@ -131,7 +136,7 @@
         }
       }
     }
-    //Submit button 
+    //Submit button
     // .e-form__buttons.elementor-column{
 
     // }
